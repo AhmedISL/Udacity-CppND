@@ -1,8 +1,11 @@
 # CPPND: Capstone Snake Game 
 
 This project is implemented including 2 screens: 
+
 1- Context menu.
+
 2- Game Screen.
+
 The user can switch between the screens using an ESC key.
 
 <img src="SnakeGame_TNT.gif"/>
